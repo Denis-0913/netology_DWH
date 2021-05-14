@@ -1,0 +1,1 @@
+docker run --name netology_DWH -e POSTGRES_PASSWORD=DWH123 -e POSTGRES_USER=DWH -e POSTGRES_DB=DWH-db-final -d postgres
